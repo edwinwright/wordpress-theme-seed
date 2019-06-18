@@ -1,4 +1,4 @@
-# Wordpress Theme Seed
+# Wordpress Theme Seed
 
 Make sure you have Docker and Node installed
 
