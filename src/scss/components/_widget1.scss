@@ -1,0 +1,9 @@
+.widget1 {
+  width: width("kitten.jpg");
+  height: height("kitten.jpg");
+  background-image: resolve("kitten.jpg");
+}
+
+.widget2 {
+  background-image: inline("kitten.jpg");
+}
